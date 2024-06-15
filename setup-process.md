@@ -96,9 +96,11 @@
 3. Install:
     - Python
     - Django
+    -Live Server
 4. Extensions view:
     ![Python Extension](images/python_extension.png)
     ![Django Extension](images/django_extension.png)
+    ![Live Server](images/live_server_extension.png)
 
 ## Challenges Faced
 
