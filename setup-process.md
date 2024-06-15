@@ -100,7 +100,7 @@
 4. Extensions view:
     ![Python Extension](images/python_extension.png)
     ![Django Extension](images/django_extension.png)
-    ![Live Server](images/live_server_extension.png)
+    ![Live Server](images/live_server.png)
 
 ## Challenges Faced
 
